@@ -5,6 +5,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-03dbfc)
 ![JS](https://img.shields.io/badge/-JavaScript-fcdb03)
 
+## How To Use
+### Step One
+![image](https://user-images.githubusercontent.com/118444485/216761091-0cdf1805-3f41-4799-b842-0f405edd9097.png)
+
+### Step Two
+![image](https://user-images.githubusercontent.com/118444485/216761108-f4280ee9-c0d4-457d-a13f-28d03604ec7d.png)
+
+### Step Three
+![image](https://user-images.githubusercontent.com/118444485/216761139-f3910094-0ebd-47c3-a2e7-fab44ee83a40.png)
+
 ## Notes
 - I'm Using Visual Studio Code (Because This Is The Way)
 - For Styling I'm Going With SCSS
@@ -13,3 +23,4 @@
 
 ## Section Overview
 1. [Variables](Variables)
+99. More Is Coming
