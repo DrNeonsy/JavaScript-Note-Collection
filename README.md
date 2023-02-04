@@ -5,11 +5,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-03dbfc)
 ![JS](https://img.shields.io/badge/-JavaScript-fcdb03)
 
-## Tools
+## Notes
 - I'm Using Visual Studio Code (Because This Is The Way)
-- For Base Styling I'm Using SCSS
+- For Styling I'm Going With SCSS
 - The Main Page Is The Navigation Between All HTML Files
-- I Might Tweak Things As THis "Project" Grows
+- I Might Tweak Things As THis "Project" Evolves
 
 ## Section Overview
 1. [Variables](Variables)
