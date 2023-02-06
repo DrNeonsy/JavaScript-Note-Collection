@@ -32,4 +32,5 @@
 3. [User Input](JS/User%20Input)
 4. [Type Conversion](JS/Type%20Conversion)
 5. [Const](JS/Const)
+6. [Math](JS/Math)
 99. More Is Coming
