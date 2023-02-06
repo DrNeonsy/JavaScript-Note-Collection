@@ -5,6 +5,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-03dbfc)
 ![JS](https://img.shields.io/badge/-JavaScript-fcdb03)
 
+## Important
+### If You Download This, Please Check For Repo Updates
+### Please Check The JavaScript Files Because Some Demos Might Be Commented
+
 ## How To Use
 ### Step One
 ![image](https://user-images.githubusercontent.com/118444485/216761091-0cdf1805-3f41-4799-b842-0f405edd9097.png)
