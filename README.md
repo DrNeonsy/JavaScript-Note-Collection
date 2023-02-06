@@ -22,5 +22,6 @@
 - I Might Tweak Things As THis "Project" Evolves
 
 ## Section Overview
-1. [Variables](Variables)
+1. [Variables](JS/Variables)
+2. [Arithmetics](JS/Arithmetics)
 99. More Is Coming
