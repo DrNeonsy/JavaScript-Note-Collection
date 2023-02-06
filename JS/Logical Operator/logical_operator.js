@@ -4,6 +4,10 @@
 
     You Have The AND ( && ) All Conditions Must Be TRUE
     You Have The OR ( || ) One Condition Must Be TRUE
+
+    Using An ! Reverses Your Asked Condition
+
+    True = False && False = True
 */
 
 const age = 75;
