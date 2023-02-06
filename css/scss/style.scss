@@ -2,6 +2,7 @@
 
 $color: whitesmoke;
 
+// Global
 * {
     box-sizing: border-box;
     margin: 0;
@@ -9,10 +10,15 @@ $color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     user-select: none;
+    outline: none;
 }
 
+// General Template Settings
 body {
     height: 100vh;
+    width: 100vw;
+
+    overflow: hidden;
 
     display: flex;
     justify-content: space-evenly;
@@ -25,11 +31,6 @@ body {
     div.nav {
         position: absolute;
         top: 18px;
-
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
         
         font-size: 1.8rem;
     }
@@ -41,4 +42,25 @@ a, a:active, a:focus, a:visited, a:hover {
 
 p {
     font-size: 1.8rem;
+}
+
+input[type="text"] {
+    text-align: center;
+}
+
+/// Classes
+
+.flex-dir-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+//- User Input
+
+.user_input-input-area {
+    * {
+        margin-bottom: 9px;
+    }
 }

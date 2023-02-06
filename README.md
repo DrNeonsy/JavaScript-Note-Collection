@@ -5,6 +5,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-03dbfc)
 ![JS](https://img.shields.io/badge/-JavaScript-fcdb03)
 
+## Important
+### Please Check The JavaScript Files Because Some Demos Might Be Commented
+### If You Download This, Please Check For Repo Updates
+### The Order Of The Sections Is Subject To Change
+
 ## How To Use
 ### Step One
 ![image](https://user-images.githubusercontent.com/118444485/216761091-0cdf1805-3f41-4799-b842-0f405edd9097.png)
@@ -24,4 +29,5 @@
 ## Section Overview
 1. [Variables](JS/Variables)
 2. [Arithmetics](JS/Arithmetics)
+3. [User Input](JS/User%20Input)
 99. More Is Coming
