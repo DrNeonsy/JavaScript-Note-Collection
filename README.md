@@ -34,4 +34,5 @@
 5. [Const](JS/Const)
 6. [Math](JS/Math)
 7. [String](JS/String)
+7. [If Statement](JS/If%20Statement)
 99. More Is Coming
