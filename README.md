@@ -6,8 +6,9 @@
 ![JS](https://img.shields.io/badge/-JavaScript-fcdb03)
 
 ## Important
-### If You Download This, Please Check For Repo Updates
 ### Please Check The JavaScript Files Because Some Demos Might Be Commented
+### If You Download This, Please Check For Repo Updates
+### The Order Of The Sections Is Subject To Change
 
 ## How To Use
 ### Step One

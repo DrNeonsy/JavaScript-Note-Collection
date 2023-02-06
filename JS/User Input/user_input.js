@@ -19,3 +19,24 @@ else {
   document.getElementById("wpo").innerText += " Nice Try ;)";
 }
 */
+
+// -----------------------------------------------------------------------------
+
+/*
+    We Fetch The Button Based On The ID And Assign An Anonymous Function Which
+    Just Binds The Statements We Want To Execute
+*/
+
+document.getElementById("button").onclick = function () {
+  let userInput = document.getElementById("textField").value;
+
+  if (userInput.length !== 0)
+    if (userInput.length <= 57) {
+      document.getElementById("wpo").innerText = "Output: " + userInput;
+    } else {
+      document.getElementById("wpo").innerText = "Output: Input Too Long";
+    }
+  else {
+    document.getElementById("wpo").innerText = "Output: Nice Try ;)";
+  }
+};
