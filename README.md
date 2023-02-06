@@ -31,4 +31,5 @@
 2. [Arithmetics](JS/Arithmetics)
 3. [User Input](JS/User%20Input)
 4. [Type Conversion](JS/Type%20Conversion)
+5. [Const](JS/Const)
 99. More Is Coming
