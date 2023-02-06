@@ -34,6 +34,7 @@
 5. [Const](JS/Const)
 6. [Math](JS/Math)
 7. [String](JS/String)
-7. [If Statement](JS/If%20Statement)
-7. [Checked](JS/Checked)
+8. [If Statement](JS/If%20Statement)
+9. [Checked](JS/Checked)
+10. [Switch](JS/Switch)
 99. More Is Coming
