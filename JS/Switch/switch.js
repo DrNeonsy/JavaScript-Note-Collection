@@ -29,32 +29,32 @@ const number = 5;
 // When It Comes To Precision Or You Use Too Many If Statements Try And Switch It Up
 
 switch (
-  number // If You Forget A Break The Case Will Enter Where It's Valid
+    number // If You Forget A Break The Case Will Enter Where It's Valid
 ) {
-  // And "Fall Through" Until It Hits A Break Or The End Of The Switch
-  case 1:
-    console.log("Number Is 1");
-    break;
-  case 2:
-    console.log("Number Is 2");
-    break;
-  case 3:
-    console.log("Number Is 3");
-    break;
-  case 4:
-    console.log("Number Is 4");
-    break;
-  case 5:
-    console.log("Number Is 5");
-  // break;
-  case 6:
-    console.log("Number Is 6");
-  // break;
-  case 7:
-    console.log("Number Is 7");
-    break;
+    // And "Fall Through" Until It Hits A Break Or The End Of The Switch
+    case 1:
+        console.log("Number Is 1");
+        break;
+    case 2:
+        console.log("Number Is 2");
+        break;
+    case 3:
+        console.log("Number Is 3");
+        break;
+    case 4:
+        console.log("Number Is 4");
+        break;
+    case 5:
+        console.log("Number Is 5");
+    // break;
+    case 6:
+        console.log("Number Is 6");
+    // break;
+    case 7:
+        console.log("Number Is 7");
+        break;
 
-  default:
-    console.log("Number Is < 1 || > 7");
-    break;
+    default:
+        console.log("Number Is < 1 || > 7");
+        break;
 }
