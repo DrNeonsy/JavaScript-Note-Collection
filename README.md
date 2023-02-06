@@ -38,4 +38,5 @@
 9. [Checked](JS/Checked)
 10. [Switch](JS/Switch)
 11. [Logical Operator](JS/Logical%20Operator)
+12. [While Loop](JS/While%20Loop)
 99. More Is Coming
