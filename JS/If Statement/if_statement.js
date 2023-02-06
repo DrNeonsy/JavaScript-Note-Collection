@@ -8,3 +8,40 @@
     Else (If Nothing Is True) => Execute This Code
 */
 
+let age = Number(window.prompt("Enter An Age"));
+
+// Using An ! Inverts The Condition Like != Or !==
+
+if (!isNaN(age)) {
+  // If It's Not Not A Number ( If It Is A Number )
+  if (age >= 18) {
+    // If The Value Is Greater Or Equals 18
+    console.log("You Are An Adult, Legally"); // Execute This
+  } else if (age <= 0) {
+    // Otherwise If It's Less Or Equal To 0
+    console.log("Invalid Input"); // Execute This
+  } else {
+    // If Nothing Is True ( Then Everything Is A Lie 🎂 )
+    console.log("You Are A Youngling, Legally"); // Execute This
+  }
+} else {
+  // If It's Not A Number
+  console.log("No Number Was Provided :/"); // Execute This
+}
+
+// --------------------------------------------------------------------------
+
+/*
+    A Condition Is Either True Or False Like A Boolean Which Is Why
+    You Can Just Simply But It Into The Condition Field ()
+*/
+
+let teaPerson = true;
+
+console.log("teaPerson", typeof teaPerson, teaPerson);
+
+if (teaPerson) {
+  console.log("Welcome To The Tea Club");
+} else {
+  console.log("WHYYYYYYYY, NOOOOOOO, AHHHHH");
+}
