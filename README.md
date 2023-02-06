@@ -7,7 +7,7 @@
 
 ## Important
 ### Please Check The JavaScript Files Because Some Demos Might Be Commented
-### If You Download This, Please Check For Repo Updates
+### If You Download This While I'm Adding To It => Please Check For Repo Updates
 ### The Order Of The Sections Is Subject To Change
 
 ## How To Use
