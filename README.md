@@ -29,4 +29,5 @@
 ## Section Overview
 1. [Variables](JS/Variables)
 2. [Arithmetics](JS/Arithmetics)
+3. [User Input](JS/User%20Input)
 99. More Is Coming
