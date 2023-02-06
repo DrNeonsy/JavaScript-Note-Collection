@@ -10,6 +10,3 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-
-# Custom Ignore
-/css/scss
