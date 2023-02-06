@@ -7,6 +7,8 @@
 
 // 1. Declare A Variable With => (var, let, const);
 
+// Var Will Be Discussed With Functions
+
 // 2. Assign A Value
 
 /*
