@@ -37,4 +37,5 @@
 8. [If Statement](JS/If%20Statement)
 9. [Checked](JS/Checked)
 10. [Switch](JS/Switch)
+11. [Logical Operator](JS/Logical%20Operator)
 99. More Is Coming
