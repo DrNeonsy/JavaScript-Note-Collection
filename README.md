@@ -30,4 +30,5 @@
 1. [Variables](JS/Variables)
 2. [Arithmetics](JS/Arithmetics)
 3. [User Input](JS/User%20Input)
+4. [Type Conversion](JS/Type%20Conversion)
 99. More Is Coming
