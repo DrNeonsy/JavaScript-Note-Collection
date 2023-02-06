@@ -33,4 +33,5 @@
 4. [Type Conversion](JS/Type%20Conversion)
 5. [Const](JS/Const)
 6. [Math](JS/Math)
+7. [String](JS/String)
 99. More Is Coming
