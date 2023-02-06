@@ -69,6 +69,6 @@ input[type=text] {
   height: 100%;
 }
 
-.user_input-input-area * {
+.input-area * {
   margin-bottom: 9px;
 }
