@@ -35,4 +35,5 @@
 6. [Math](JS/Math)
 7. [String](JS/String)
 7. [If Statement](JS/If%20Statement)
+7. [Checked](JS/Checked)
 99. More Is Coming
