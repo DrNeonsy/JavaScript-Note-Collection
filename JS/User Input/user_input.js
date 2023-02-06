@@ -28,15 +28,15 @@ else {
 */
 
 document.getElementById("button").onclick = function () {
-  let userInput = document.getElementById("textField").value;
+    let userInput = document.getElementById("textField").value;
 
-  if (userInput.length !== 0)
-    if (userInput.length <= 57) {
-      document.getElementById("wpo").innerText = "Output: " + userInput;
-    } else {
-      document.getElementById("wpo").innerText = "Output: Input Too Long";
+    if (userInput.length !== 0)
+        if (userInput.length <= 57) {
+            document.getElementById("wpo").innerText = "Output: " + userInput;
+        } else {
+            document.getElementById("wpo").innerText = "Output: Input Too Long";
+        }
+    else {
+        document.getElementById("wpo").innerText = "Output: Nice Try ;)";
     }
-  else {
-    document.getElementById("wpo").innerText = "Output: Nice Try ;)";
-  }
 };

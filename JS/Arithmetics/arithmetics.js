@@ -34,6 +34,6 @@ let teaBagAmount = 25;
     4. Plus & Minus
 */
 
-let e = document.getElementById("output").innerText += " " + teaBagAmount;
+let e = (document.getElementById("output").innerText += " " + teaBagAmount);
 
 console.log(teaBagAmount);

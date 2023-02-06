@@ -39,4 +39,5 @@
 10. [Switch](JS/Switch)
 11. [Logical Operator](JS/Logical%20Operator)
 12. [While Loop](JS/While%20Loop)
+13. [Do While Loop](JS/Do%20While%20Loop)
 99. More Is Coming
