@@ -24,7 +24,7 @@
 - I'm Using Visual Studio Code (Because This Is The Way)
 - For Styling I'm Going With SCSS
 - The Main Page Is The Navigation Between All HTML Files
-- I Might Tweak Things As THis "Project" Evolves
+- I Might Tweak Things As This "Project" Evolves
 
 ## Section Overview
 1. [Variables](JS/Variables)
