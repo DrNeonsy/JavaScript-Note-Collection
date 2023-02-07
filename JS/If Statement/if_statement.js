@@ -45,3 +45,14 @@ if (teaPerson) {
 } else {
     console.log("WHYYYYYYYY, NOOOOOOO, AHHHHH");
 }
+
+/*
+    It Is Important To Know That We Don't Have Compile ( Set In Stone ) Datatypes
+    So In Static Programming Languages Like C C++ C# And Java Datatypes Are Set In Size
+
+    In JavaScript Which Is A Dynamic Language You Can Compare Conditions In 2 Ways
+
+    == Which Is Based On Value
+    === Which Is Based On Value And Type ( Numeric, String, Boolean )
+    This Also Applies To PHP And Python
+*/
