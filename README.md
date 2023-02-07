@@ -45,7 +45,7 @@
 6. [Math](JS/Math)
 7. [String](JS/String)
 8. [If Statement](JS/If%20Statement)
-9. [Checked](JS/Checked)
+9. [Checked Properties](JS/Checked)
 10. [Switch](JS/Switch)
 11. [Logical Operator](JS/Logical%20Operator)
 12. [While Loop](JS/While%20Loop)
