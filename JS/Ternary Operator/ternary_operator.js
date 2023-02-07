@@ -22,3 +22,18 @@ console.log(result); // False Because It Is 3 Not Bigger Than 3
 result = value >= 3 ? "Condition True" : "Condition False";
 
 console.log(result); // Now It's True
+
+// A Better Example With A Function For Reusability
+
+let legalAdult = legalAge(25);
+
+function legalAge(age) {
+  // if (age >= 18) {
+  //     return true;
+  //   } else {
+  //     return false;
+  //   }
+  return age >= 18 ? true : false;
+}
+
+console.log("Legal Adult:", legalAdult);

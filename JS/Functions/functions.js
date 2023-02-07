@@ -66,13 +66,17 @@ function returnInfoTwo(numberOne, numberTwo) {
 /*
     So What Is The Difference Between Let And Var
 
-    If You Have A Scope Like An If Statement The Let Keyword Would Only Allow The
-    Variable To Be Accessed Within That If {} Block Scope
+    If You Have A Block Scope Like An If Statement The Let Keyword Would Only Allow The
+    Variable To Be Accessed Within That If {} Block Scope And Further Down
 
     Which Is Also How It's Being Done With Most If Not All Static Programming Languages
 
     However Tha Var Keyword Allows You To Create A Variable You Can Access No Matter
     Where You Are (Within The Function You Declared It In) => Function Wide Access
+
+    NOTE: If A Var Variable Is Declared Within The Global Scope Which As Mentioned Before
+    Is Outside Any Function ( Top Most Layer ) It Will Change Browser Window Properties
+    Doing That Without Knowing ( Unintentionally ) Can Cause Avoidable Errors
 */
 
 varExample();
