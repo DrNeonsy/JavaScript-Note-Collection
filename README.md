@@ -24,7 +24,7 @@
 - I'm Using Visual Studio Code (Because This Is The Way)
 - For Styling I'm Going With SCSS
 - The Main Page Is The Navigation Between All HTML Files
-- I Might Tweak Things As THis "Project" Evolves
+- I Might Tweak Things As This "Project" Evolves
 
 ## Section Overview
 1. [Variables](JS/Variables)
@@ -41,5 +41,6 @@
 12. [While Loop](JS/While%20Loop)
 13. [Do While Loop](JS/Do%20While%20Loop)
 14. [For Loop](JS/For%20Loop)
-14. [Break And Continue](JS/Break%20And%20Continue)
+15. [Break And Continue](JS/Break%20And%20Continue)
+16. [Functions](JS/Functions)
 99. More Is Coming
