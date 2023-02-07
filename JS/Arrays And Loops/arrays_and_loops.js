@@ -27,7 +27,7 @@ for (let i = 0; i < colors.length; i++) {
 }
 console.log("\n");
 
-// For Each Loop
+// For Each "Loop" // Check Out Array Functions
 
 colors.forEach((color) => {
   console.log(color);

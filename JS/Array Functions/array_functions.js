@@ -1,0 +1,8 @@
+/*
+    ForEach
+    Map
+    Filter
+    Reduce
+    Sort Numbers
+    Sort Strings
+*/

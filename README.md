@@ -58,4 +58,5 @@
 19. [Arrays](JS/Arrays)
 20. [Arrays And Loops](JS/Arrays%20And%20Loops)
 21. [Multidimensional Arrays](JS/Multidimensional%20Arrays)
-22. More Is Coming
+22. [Array Functions](JS/Array%20Functions)
+23. More Is Coming
