@@ -10,12 +10,12 @@ let num = 5;
 const MAX = 100;
 
 for (let i = 0; i <= 100; i++) {
-  if (num === i) {
-    console.log("Num:", i);
-    console.log("Exiting Loop Because We Got What We Wanted");
-    break;
-  }
-  console.log(i);
+    if (num === i) {
+        console.log("Num:", i);
+        console.log("Exiting Loop Because We Got What We Wanted");
+        break;
+    }
+    console.log(i);
 }
 
 // -------------------------------------------------------------------------------
@@ -29,13 +29,13 @@ for (let i = 0; i <= 100; i++) {
 let evenNumbsTotal = 0;
 
 for (let i = 1; i <= 75; i++) {
-  // Yes This Could Also Be Handled With An Else
-  if (i % 2 !== 0) {
-    console.log(i, "Is An Odd Number");
-    continue; // Skipping Rest Of Loop Code
-  }
-  console.log("Counting An Even Number");
-  evenNumbsTotal++;
+    // Yes This Could Also Be Handled With An Else
+    if (i % 2 !== 0) {
+        console.log(i, "Is An Odd Number");
+        continue; // Skipping Rest Of Loop Code
+    }
+    console.log("Counting An Even Number");
+    evenNumbsTotal++;
 }
 
 console.log("Even Numbers:", evenNumbsTotal);
