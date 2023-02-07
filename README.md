@@ -55,4 +55,5 @@
 16. [Functions](JS/Functions)
 17. [Ternary Operator](JS/Ternary%20Operator)
 18. [Template Literals / String Interpolation](JS/Template%20Literals)
-19. More Is Coming
+19. [Arrays](JS/Arrays)
+20. More Is Coming
