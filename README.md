@@ -43,4 +43,5 @@
 14. [For Loop](JS/For%20Loop)
 15. [Break And Continue](JS/Break%20And%20Continue)
 16. [Functions](JS/Functions)
+16. [Ternary Operator](JS/Ternary%20Operator)
 99. More Is Coming
