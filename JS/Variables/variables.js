@@ -1,6 +1,8 @@
 /*  Variables Are Containers That Store Data / Values
     The Name Of The Variable Acts As A Reference To The Data Inside
     So One Might Say The Variable Behaves As If Is The Data It Contains Within
+
+    NOTE: A Variables Max Amount Of Characters Is 254
 */
 
 // There Are Two Steps To This Process
