@@ -9,7 +9,7 @@
 let input;
 
 do {
-    input = window.prompt("Enter Something");
+  input = window.prompt("Enter Something");
 } while (input == undefined || input === "" || input == null);
 
 console.log(input);

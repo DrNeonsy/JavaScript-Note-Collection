@@ -38,11 +38,11 @@ body {
 
         .links {
             display: grid;
-            grid-template-columns: repeat(6, 1fr);
+            grid-template-columns: repeat(9, 1fr);
             align-items: center;
             align-content: center;
             justify-content: center;
-            grid-gap: 6px;
+            grid-gap: 3rem;
 
             text-align: center;
         }

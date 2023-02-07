@@ -15,9 +15,9 @@ favNumber = window.prompt("What Is Your Favorite Number?");
 favNumber = Number(favNumber); // Type Cast / Convert To A Number
 
 if (isNaN(favNumber) || favNumber === 0) {
-    console.log("You Were Suppose To Enter A Number");
+  console.log("You Were Suppose To Enter A Number");
 } else {
-    console.log(favNumber);
+  console.log(favNumber);
 }
 
 // -------------------------------------------------------------------------------
