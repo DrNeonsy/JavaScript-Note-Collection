@@ -3,6 +3,7 @@
     That Is Holding Other Arrays
 
     So It's "Just" An Array Of Arrays
+    JavaScript Does Not Natively Support This Concept So We Have To Do It Ourselves
 */
 
 let reds = ["lightRed", "darkRed", "wineRed"];
