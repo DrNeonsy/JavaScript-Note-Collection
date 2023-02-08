@@ -16,8 +16,8 @@ let uName = "Neonsy";
 greetings(); // You Can Call A Function Before You Write It As Long As All Variables Are Declared
 
 function greetings() {
-  // If You Call Greetings() Before "let uName" You Would Get An Error
-  console.log("Hello", uName);
+    // If You Call Greetings() Before "let uName" You Would Get An Error
+    console.log("Hello", uName);
 }
 
 /*
@@ -30,18 +30,18 @@ function greetings() {
 getInfoOne();
 
 function getInfoOne() {
-  let num1 = 5; // These Variables Only Exist Within The Scope Of This Function
-  let num2 = 7; // These Variables Only Exist Within The Scope Of This Function
+    let num1 = 5; // These Variables Only Exist Within The Scope Of This Function
+    let num2 = 7; // These Variables Only Exist Within The Scope Of This Function
 
-  getInfoTwo(num1, num2); // We Need To Pass The Values We Want To Use To This Function
+    getInfoTwo(num1, num2); // We Need To Pass The Values We Want To Use To This Function
 }
 
 function getInfoTwo(valueOne, valueTwo) {
-  /* 
+    /* 
         Because You Don't Know All Of The Possible Names Of Variables That Will Be Used
         With This Function The Name In The Parameter List Should Be Generic ( Universally Describing )
     */
-  console.log(valueOne + valueTwo);
+    console.log(valueOne + valueTwo);
 }
 
 // 3. A Function That Returns Information
@@ -49,18 +49,18 @@ function getInfoTwo(valueOne, valueTwo) {
 returnInfoOne();
 
 function returnInfoOne() {
-  let digit1 = 42;
-  let digit2 = 72;
+    let digit1 = 42;
+    let digit2 = 72;
 
-  let sum = returnInfoTwo(digit1, digit2);
+    let sum = returnInfoTwo(digit1, digit2);
 
-  console.log("Direct Sum Output:", returnInfoTwo(digit1, digit2));
-  console.log("Variable Sum Output:", sum);
+    console.log("Direct Sum Output:", returnInfoTwo(digit1, digit2));
+    console.log("Variable Sum Output:", sum);
 }
 
 function returnInfoTwo(numberOne, numberTwo) {
-  // Instead Of Just Printing The Value We Might Want To Store The Result
-  return numberOne + numberTwo;
+    // Instead Of Just Printing The Value We Might Want To Store The Result
+    return numberOne + numberTwo;
 }
 
 /*
@@ -82,10 +82,10 @@ function returnInfoTwo(numberOne, numberTwo) {
 varExample();
 
 function varExample() {
-  if (3 === 3) {
-    let yes = true;
-    var yeah = true;
-  }
-  // console.log(yes); // Yes Is Not Defined ERROR
-  console.log("Yeah", typeof yeah, yeah);
+    if (3 === 3) {
+        let yes = true;
+        var yeah = true;
+    }
+    // console.log(yes); // Yes Is Not Defined ERROR
+    console.log("Yeah", typeof yeah, yeah);
 }

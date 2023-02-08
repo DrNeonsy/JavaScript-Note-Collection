@@ -28,12 +28,12 @@ console.log(result); // Now It's True
 let legalAdult = legalAge(25);
 
 function legalAge(age) {
-  // if (age >= 18) {
-  //     return true;
-  //   } else {
-  //     return false;
-  //   }
-  return age >= 18 ? true : false;
+    // if (age >= 18) {
+    //     return true;
+    //   } else {
+    //     return false;
+    //   }
+    return age >= 18 ? true : false;
 }
 
 console.log("Legal Adult:", legalAdult);

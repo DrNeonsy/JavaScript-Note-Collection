@@ -34,7 +34,7 @@ document.getElementById("p1").innerText = "Hello " + userName;
 document.getElementById("p2").innerText = "You Are " + age + " Years Old";
 
 teaPerson // Check Ternary Operator Section For The Explanation
-  ? (document.getElementById("p3").innerText =
-      "And You Like Tea, Which Is Great")
-  : (document.getElementById("p3").innerText =
-      "And You Don't Like Tea, HOW DARE YOU");
+    ? (document.getElementById("p3").innerText =
+          "And You Like Tea, Which Is Great")
+    : (document.getElementById("p3").innerText =
+          "And You Don't Like Tea, HOW DARE YOU");

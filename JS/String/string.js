@@ -5,7 +5,7 @@
 let text = "Timothy Enderson";
 let trimText = "   Timothy  Enderson     ";
 let replaceText =
-  "Th-is/I-s/Re-ada-b-l-e/If/Y-o-u/R-e-p-l-ac-e/C-e-rt-a-in/Ch-a-rs";
+    "Th-is/I-s/Re-ada-b-l-e/If/Y-o-u/R-e-p-l-ac-e/C-e-rt-a-in/Ch-a-rs";
 
 // Length Of The String As Number
 console.log(text.length);
