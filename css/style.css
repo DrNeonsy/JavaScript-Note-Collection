@@ -7,7 +7,6 @@
   text-decoration: none;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
   outline: none;
 }
@@ -33,11 +32,11 @@ body div.nav h1 {
 }
 body div.nav .links {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(9, 1fr);
   align-items: center;
   align-content: center;
   justify-content: center;
-  grid-gap: 6px;
+  grid-gap: 3rem;
   text-align: center;
 }
 
