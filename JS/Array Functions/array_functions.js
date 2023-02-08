@@ -96,18 +96,23 @@ function forEachExample() {
 
     console.log(names);
 }
+
 function mapExample() {
     // Placeholder
 }
+
 function filterExample() {
     // Placeholder
 }
+
 function reduceExample() {
     // Placeholder
 }
+
 function sortNumbersExample() {
     // Placeholder
 }
+
 function sortStringsExample() {
     // Placeholder
 }
