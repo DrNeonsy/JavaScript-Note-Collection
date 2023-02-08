@@ -5,10 +5,10 @@
 */
 
 let typesOfTea = [
-    "Moroccan Peppermint",
-    "Earl Grey",
-    "Green Tea",
-    "Chamomile Tea",
+  "Moroccan Peppermint",
+  "Earl Grey",
+  "Green Tea",
+  "Chamomile Tea",
 ];
 
 console.log("Total Output", typeof typesOfTea, typesOfTea); // As You Can See The Typ Is Called Object

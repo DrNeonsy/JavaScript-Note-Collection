@@ -16,8 +16,8 @@ console.log("Colors Array", colors); // Open The Output Via The Arrow In The Con
 console.log("\nNow To Loop Through\n");
 
 for (const list of colors) {
-    console.log("\nArray Group:\n", list, "\nArray Items:"); // First Print The Full Array
-    for (const item of list) {
-        console.log(item); // Print Every Array Item Of That Array
-    }
+  console.log("\nArray Group:\n", list, "\nArray Items:"); // First Print The Full Array
+  for (const item of list) {
+    console.log(item); // Print Every Array Item Of That Array
+  }
 }
