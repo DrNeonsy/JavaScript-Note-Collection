@@ -30,10 +30,10 @@
 
 ## Notes
 
-- I'm Using Visual Studio Code (Because This Is The Way)
-- For Styling I'm Going With SCSS
-- The Main Page Is The Navigation Between All HTML Files
-- I Might Tweak Things As This "Project" Evolves
+-   I'm Using Visual Studio Code (Because This Is The Way)
+-   For Styling I'm Going With SCSS
+-   The Main Page Is The Navigation Between All HTML Files
+-   I Might Tweak Things As This "Project" Evolves
 
 ## Section Overview
 
@@ -59,5 +59,7 @@
 20. [Arrays And Loops](JS/Arrays%20And%20Loops)
 21. [Multidimensional Arrays](JS/Multidimensional%20Arrays)
 22. [Array Functions](JS/Array%20Functions)
-22. [Callbacks](JS/Callbacks)
-23. More Is Coming
+23. [Callbacks](JS/Callbacks)
+24. [Spread Operator](JS/Spread%20Operator)
+25. [Rest Parameters](JS/Rest%20Parameters)
+26. More Is Coming
