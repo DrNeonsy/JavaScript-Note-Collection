@@ -18,5 +18,5 @@ let customer = true;
 // );
 
 console.log(
-  `Hello ${uName}, This Is Your ${visit}TH Visit. Customer Status: ${customer}`
+    `Hello ${uName}, This Is Your ${visit}TH Visit. Customer Status: ${customer}`
 );

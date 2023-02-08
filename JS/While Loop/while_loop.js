@@ -8,7 +8,7 @@
 let input;
 
 while (input == undefined || input === "" || input == null) {
-  input = window.prompt("Enter Something");
+    input = window.prompt("Enter Something");
 }
 
 console.log(input);

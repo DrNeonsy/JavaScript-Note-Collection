@@ -10,7 +10,7 @@
 */
 
 for (let counter = 0; counter <= 10; counter++) {
-  console.log(counter);
+    console.log(counter);
 }
 
 // You Can Also Nest Loops Just Like Method Chains
@@ -20,9 +20,9 @@ for (let counter = 0; counter <= 10; counter++) {
 // Originally This Was A Time Loop ( Not That Kind Of Time Loop )
 
 for (let x = 0; x <= 3; x++) {
-  for (let y = 0; y <= 3; y++) {
-    for (let z = 0; z <= 3; z++) {
-      console.log("X:", x, "Y:", y, "Z:", z);
+    for (let y = 0; y <= 3; y++) {
+        for (let z = 0; z <= 3; z++) {
+            console.log("X:", x, "Y:", y, "Z:", z);
+        }
     }
-  }
 }
