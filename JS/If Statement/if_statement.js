@@ -36,6 +36,8 @@ if (!isNaN(age)) {
     You Can Just Simply But It Into The Condition Field ()
 */
 
+// Note: You Don't Need {} If You Only Execute One Line Of Code As A Statement
+
 let teaPerson = true;
 
 console.log("teaPerson", typeof teaPerson, teaPerson);

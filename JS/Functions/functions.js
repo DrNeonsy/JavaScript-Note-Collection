@@ -63,6 +63,17 @@ function functionThatReturnsInfo(numberOne, numberTwo) {
 }
 
 /*
+    There Are Also "Nested" Or "Local" Functions Which Are Functions Within Functions
+
+    WHY? So You Are Able You Code A More Logical Flow
+    E.G. Control Your Access To Functions So You Are Only Able To Invoke Them In Certain Cases
+
+    Case Login: You Are Inside A Login Function
+    In That Login Function Are Other Functions Related To What Should / Might Be Happening Next
+    Those Functions Should Only Be Invocable If The Login Function Has Been Called
+*/
+
+/*
     So What Is The Difference Between Let And Var
 
     If You Have A Block Scope Like An If Statement The Let Keyword Would Only Allow The

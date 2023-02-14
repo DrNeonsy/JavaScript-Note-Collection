@@ -62,4 +62,5 @@
 23. [Callbacks](JS/Callbacks)
 24. [Spread Operator](JS/Spread%20Operator)
 25. [Rest Parameters](JS/Rest%20Parameters)
-26. More Is Coming
+26. [Function Expressions](JS/Function%20Expressions)
+27. More Is Coming
