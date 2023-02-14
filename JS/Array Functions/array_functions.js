@@ -98,7 +98,22 @@ function forEachExample() {
 }
 
 function mapExample() {
-    // Placeholder
+    // This Works Like The ForEach Method With The Addition Of Creating A New Array Out Of The Result
+
+    let someNumbers = [7, 5, 9, 6, 2, 4, 3]; // So We Have A Collection Of Some Numbers
+
+    // Let's Say We Want All Those Numbers Divided By Two But We Wan't To Keep The Original Values
+
+    // Make A New Array With The Values Being "someNumbers" Calling The Half Method On Each Element
+    let results = someNumbers.map(half);
+
+    results.forEach((element) => {
+        console.log(element);
+    });
+
+    function half(currentElement) {
+        return currentElement / 2;
+    }
 }
 
 function filterExample() {
