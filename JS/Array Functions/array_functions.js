@@ -161,12 +161,12 @@ function sortNumbersOutputF() {
     /*
      * Part Of The Answer Is The Sort Method. It Is Always Recommended To Read The Doc Of A Method
      * Which I Will Provide In This Case.
-     * 
+     *
      * -------------------------------------------------------------------------------------------------------
      * It is expected to return a negative value if the first argument is less than the second argument,
      * zero if they're equal, and a positive value otherwise.
      * -------------------------------------------------------------------------------------------------------
-     * 
+     *
      * So We Can Basically Create A Simple Math Function And The Result Will Be Returned To The Sort Method
      * Which Will Do As Described Above 🔼
      */
@@ -197,5 +197,31 @@ function sortNumbersOutputF() {
 }
 
 function sortStringsOutputF() {
-    // Placeholder
+    // This Is Much Simpler Than Sorting Numbers
+    /*
+     * We Are Using The Same Sort Function But It Takes Ascii Values By Default So There Is No Extra Work For Strings
+     */
+
+    let names = [
+        "Carolinus",
+        "Yaztromo",
+        "Zorander",
+        "Moore",
+        "Blaese",
+        "Campbell",
+    ];
+
+    console.log(names);
+
+    names.sort();
+
+    console.log("\nSorted ASC");
+
+    console.log(names);
+
+    names.sort().reverse();
+
+    console.log("\nSorted DSC");
+
+    console.log(names);
 }
