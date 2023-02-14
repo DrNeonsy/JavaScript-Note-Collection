@@ -13,9 +13,9 @@
 
 let uName = "Neonsy";
 
-greetings(); // You Can Call A Function Before You Write It As Long As All Variables Are Declared
+ExampleOneGreet(); // You Can Call A Function Before You Write It As Long As All Variables Are Declared
 
-function greetings() {
+function ExampleOneGreet() {
     // If You Call Greetings() Before "let uName" You Would Get An Error
     console.log("Hello", uName);
 }
@@ -27,16 +27,16 @@ function greetings() {
 
 // 2. A Function That Receives Information
 
-getInfoOne();
+ExampleTwoReceive();
 
-function getInfoOne() {
+function ExampleTwoReceive() {
     let num1 = 5; // These Variables Only Exist Within The Scope Of This Function
     let num2 = 7; // These Variables Only Exist Within The Scope Of This Function
 
-    getInfoTwo(num1, num2); // We Need To Pass The Values We Want To Use To This Function
+    functionThatGetsInfo(num1, num2); // We Need To Pass The Values We Want To Use To This Function
 }
 
-function getInfoTwo(valueOne, valueTwo) {
+function functionThatGetsInfo(valueOne, valueTwo) {
     /* 
         Because You Don't Know All Of The Possible Names Of Variables That Will Be Used
         With This Function The Name In The Parameter List Should Be Generic ( Universally Describing )
@@ -46,20 +46,19 @@ function getInfoTwo(valueOne, valueTwo) {
 
 // 3. A Function That Returns Information
 
-returnInfoOne();
+ExampleThreeReturn();
 
-function returnInfoOne() {
+function ExampleThreeReturn() {
     let digit1 = 42;
     let digit2 = 72;
 
-    let sum = returnInfoTwo(digit1, digit2);
+    let sum = functionThatReturnsInfo(digit1, digit2); // Instead Of Just Printing The Value We Might Want To Store The Result
 
-    console.log("Direct Sum Output:", returnInfoTwo(digit1, digit2));
+    console.log("Direct Sum Output:", functionThatReturnsInfo(digit1, digit2));
     console.log("Variable Sum Output:", sum);
 }
 
-function returnInfoTwo(numberOne, numberTwo) {
-    // Instead Of Just Printing The Value We Might Want To Store The Result
+function functionThatReturnsInfo(numberOne, numberTwo) {
     return numberOne + numberTwo;
 }
 
