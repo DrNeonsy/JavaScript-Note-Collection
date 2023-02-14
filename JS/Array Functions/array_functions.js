@@ -140,7 +140,17 @@ function filterOutputF() {
 }
 
 function reduceOutputF() {
-    // Placeholder
+    // As The Name Somewhat Suggests It Reduces The Array And In This Case To A Single Value
+
+    let prices = [13.7, 95.4, 46, 75, 36.9];
+
+    let totalToPay = prices.reduce(CheckOut);
+
+    console.log(`Total Amount To Pay: ${totalToPay}`);
+
+    function CheckOut(totalToPay, currentValue) {
+        return totalToPay + currentValue;
+    }
 }
 
 function sortNumbersOutputF() {
