@@ -18,10 +18,10 @@ document.getElementById("Button").onclick = function () {
     // The Switch Pattern Is True Because I Want To Enter The Case Where It Matches
     switch (true) {
         case options[0]:
-            forEachExample();
+            forEachOutputF();
             break;
         case options[1]:
-            mapExample();
+            mapOutputF();
             break;
         case options[2]:
             filterOutputF();
@@ -40,7 +40,7 @@ document.getElementById("Button").onclick = function () {
 
 // ----------------------------------------------------------------------------
 
-function forEachExample() {
+function forEachOutputF() {
     /*
         For Each Which Is Something We Are Used To In Languages Like Java And C#
         Usually Provides Us With A Loop Through Some Kind Of An Array Or List ( Collection )
@@ -73,20 +73,20 @@ function forEachExample() {
         console.log(names);
     }
 
-    function toEvenUpperCallbackExample(element, index, array) {
+    function toEvenUpperCallbackExample(element, i, array) {
         for (let char = 0; char < element.length; char++) {
             if (char % 2 === 0) {
                 /*
-                    In Order For This To Work You Need array[index].replace
+                    In Order For This To Work You Need array[i].replace
                     Because "element" Holds The State Of The Element When
-                    First Calling This Function While array[index] Is The
+                    First Calling This Function While array[i] Is The
                     Updated State ( The Loop Updates The Element Within The Array )
 
-                    This Is Also Why We Need To Override array[index] =
+                    This Is Also Why We Need To Override array[i] =
                     And Not element = 
                     Because element Only Exists Within This Function
                 */
-                array[index] = array[index].replace(
+                array[i] = array[i].replace(
                     element.charAt(char),
                     element.charAt(char).toUpperCase()
                 );
@@ -97,7 +97,7 @@ function forEachExample() {
     console.log(names);
 }
 
-function mapExample() {
+function mapOutputF() {
     // This Works Like The ForEach Method With The Addition Of Creating A New Array Out Of The Result
 
     let someNumbers = [7, 5, 9, 6, 2, 4, 3]; // So We Have A Collection Of Some Numbers
@@ -116,18 +116,37 @@ function mapExample() {
     }
 }
 
-function filterExample() {
+function filterOutputF() {
+    // Creates A New Array With All The Values That Pass Through A Filter (Boolean Function)
+
+    let moreNumbers = [
+        2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 90, 20,
+    ];
+
+    let primeNumbers = moreNumbers.filter(primeNumber);
+
+    primeNumbers.forEach((element) => {
+        console.log(element);
+    });
+
+    function primeNumber(element) {
+        for (let i = 2; i < element; i++) {
+            if (element % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+function reduceOutputF() {
     // Placeholder
 }
 
-function reduceExample() {
+function sortNumbersOutputF() {
     // Placeholder
 }
 
-function sortNumbersExample() {
-    // Placeholder
-}
-
-function sortStringsExample() {
+function sortStringsOutputF() {
     // Placeholder
 }
