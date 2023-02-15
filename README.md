@@ -1,6 +1,6 @@
 # JavaScript Note Collection
 
-### This Repo Is A Collection Of The Fundementals I've Learned Within The World Of JavaScript
+### This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of JavaScript
 
 ![HTML](https://img.shields.io/badge/-HTML-fc6203)
 ![CSS](https://img.shields.io/badge/-CSS-03dbfc)
