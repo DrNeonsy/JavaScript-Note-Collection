@@ -18,15 +18,15 @@
 
 ### Step One
 
-![image](https://user-images.githubusercontent.com/118444485/216960044-7fe7ca35-d48b-4179-8bff-5f1d3d4cad01.png)
+![Click On Code](https://user-images.githubusercontent.com/118444485/216960044-7fe7ca35-d48b-4179-8bff-5f1d3d4cad01.png)
 
 ### Step Two
 
-![image](https://user-images.githubusercontent.com/118444485/216959964-5f257c99-88e7-4510-a685-376cef805a74.png)
+![Download Code](https://user-images.githubusercontent.com/118444485/216959964-5f257c99-88e7-4510-a685-376cef805a74.png)
 
 ### Step Three
 
-![image](https://user-images.githubusercontent.com/118444485/216959869-f016d6a0-ff47-4e07-9da1-6d710af3eb45.png)
+![Open Index HTML](https://user-images.githubusercontent.com/118444485/219054069-2c5164ec-41b8-49fb-a27f-051a6dc83288.png)
 
 ## Notes
 
