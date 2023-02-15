@@ -8,9 +8,9 @@
 
 ## Important
 
-### Please Check The JavaScript Files Because Some Demos Might Be Commented
+### This Is Currently W.I.P And I'm Working Directly With The Main Branch So Be Sure To Update
 
-### If You Download This While I'm Adding To It => Please Check For Repo Updates
+### To Get The Most Out Of This You Need To Read The JavaScript File Within A Section
 
 ### The Order Of The Sections Is Subject To Change
 
@@ -32,8 +32,7 @@
 
 -   I'm Using Visual Studio Code (Because This Is The Way)
 -   For Styling I'm Going With SCSS
--   The Main Page Is The Navigation Between All HTML Files
--   I Might Tweak Things As This "Project" Evolves
+-   The Main Page Provides Navigation Between All HTML Files
 
 ## Section Overview
 
