@@ -32,19 +32,38 @@ body {
         position: absolute;
         top: 18px;
 
-        h1 {
+        h1,
+        h2 {
             text-align: center;
+        }
+
+        #home {
+            margin-top: 1.2rem;
         }
 
         .links {
             display: grid;
-            grid-template-columns: repeat(9, 1fr);
             align-items: center;
             align-content: center;
             justify-content: center;
             grid-gap: 1rem 0;
 
+            font-size: 1.2rem;
+
             text-align: center;
+        }
+
+        #index {
+            grid-template-columns: repeat(5, 1fr);
+        }
+        #Fundamentals {
+            grid-template-columns: repeat(4, 1fr);
+        }
+        #Functions {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        #Arrays {
+            grid-template-columns: repeat(3, 1fr);
         }
 
         font-size: 1.8rem;

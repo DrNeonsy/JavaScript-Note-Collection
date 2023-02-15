@@ -1,6 +1,6 @@
 # JavaScript Note Collection
 
-### This Repo Is A Collection Of The Fundementals I've Learned Within The World Of JavaScript
+### This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of JavaScript
 
 ![HTML](https://img.shields.io/badge/-HTML-fc6203)
 ![CSS](https://img.shields.io/badge/-CSS-03dbfc)
@@ -8,9 +8,9 @@
 
 ## Important
 
-### Please Check The JavaScript Files Because Some Demos Might Be Commented
+### This Is A W.I.P And I'm Working Directly With The Main Branch So Be Sure To Update
 
-### If You Download This While I'm Adding To It => Please Check For Repo Updates
+### To Get The Most Out Of This You Need To Read The JavaScript File Within A Section
 
 ### The Order Of The Sections Is Subject To Change
 
@@ -18,49 +18,59 @@
 
 ### Step One
 
-![image](https://user-images.githubusercontent.com/118444485/216960044-7fe7ca35-d48b-4179-8bff-5f1d3d4cad01.png)
+![Click On Code](https://user-images.githubusercontent.com/118444485/216960044-7fe7ca35-d48b-4179-8bff-5f1d3d4cad01.png)
 
 ### Step Two
 
-![image](https://user-images.githubusercontent.com/118444485/216959964-5f257c99-88e7-4510-a685-376cef805a74.png)
+![Download Code](https://user-images.githubusercontent.com/118444485/216959964-5f257c99-88e7-4510-a685-376cef805a74.png)
 
 ### Step Three
 
-![image](https://user-images.githubusercontent.com/118444485/216959869-f016d6a0-ff47-4e07-9da1-6d710af3eb45.png)
+![Open Index HTML](https://user-images.githubusercontent.com/118444485/219054069-2c5164ec-41b8-49fb-a27f-051a6dc83288.png)
 
 ## Notes
 
 -   I'm Using Visual Studio Code (Because This Is The Way)
 -   For Styling I'm Going With SCSS
--   The Main Page Is The Navigation Between All HTML Files
--   I Might Tweak Things As This "Project" Evolves
+-   The Main Page Provides Navigation Between All HTML Files
 
 ## Section Overview
 
-1. [Variables](JS/Variables)
-2. [Arithmetics](JS/Arithmetics)
-3. [User Input](JS/User%20Input)
-4. [Type Conversion](JS/Type%20Conversion)
-5. [Const](JS/Const)
-6. [Math](JS/Math)
-7. [String](JS/String)
-8. [If Statement](JS/If%20Statement)
-9. [Checked Properties](JS/Checked%20Property)
-10. [Switch](JS/Switch)
-11. [Logical Operator](JS/Logical%20Operator)
-12. [While Loop](JS/While%20Loop)
-13. [Do While Loop](JS/Do%20While%20Loop)
-14. [For Loop](JS/For%20Loop)
-15. [Break And Continue](JS/Break%20And%20Continue)
-16. [Functions](JS/Functions)
-17. [Ternary Operator](JS/Ternary%20Operator)
-18. [Template Literals / String Interpolation](JS/Template%20Literals)
-19. [Arrays](JS/Arrays)
-20. [Arrays And Loops](JS/Arrays%20And%20Loops)
-21. [Multidimensional Arrays](JS/Multidimensional%20Arrays)
-22. [Array Functions](JS/Array%20Functions)
-23. [Callbacks](JS/Callbacks)
-24. [Spread Operator](JS/Spread%20Operator)
-25. [Rest Parameters](JS/Rest%20Parameters)
-26. [Function Expressions](JS/Function%20Expressions)
-27. More Is Coming
+### [Fundamentals](JS/Fundamentals)
+- [Arithmetics](JS/Fundamentals/Arithmetics)
+- [Break And Continue](JS/Fundamentals/Break%20And%20Continue)
+- [Checked Property](JS/Fundamentals/Checked%20Property)
+- [Do While Loop](JS/Fundamentals/Do%20While%20Loop)
+- [For Loop](JS/Fundamentals/For%20Loop)
+- [If Statement](JS/Fundamentals/If%20Statement)
+- [Logical Operator](JS/Fundamentals/Logical%20Operator)
+- [Math](JS/Fundamentals/Math)
+- [Strings](JS/Fundamentals/Strings)
+- [Switch](JS/Fundamentals/Switch)
+- [Template Literals](JS/Fundamentals/Template%20Literals)
+- [Ternary Operator](JS/Fundamentals/Ternary%20Operator)
+- [Type Conversion](JS/Fundamentals/Type%20Conversion)
+- [User Input](JS/Fundamentals/User%20Input)
+- [Variables](JS/Fundamentals/Variables)
+- [While Loop](JS/Fundamentals/While%20Loop)
+
+### [Functions](JS/Functions)
+- [Callbacks](JS/Functions/Callbacks)
+- [Function Basics](JS/Functions/Function%20Basics)
+- [Function Expressions](JS/Functions/Function%20Expressions)
+- [Rest Parameters](JS/Functions/Rest%20Parameters)
+
+### [Arrays](JS/Arrays)
+- [Array Basics](JS/Arrays/Array%20Basics)
+- [Array Functions](JS/Arrays/Array%20Functions)
+- [Arrays And Loops](JS/Arrays/Arrays%20And%20Loops)
+- [Map](JS/Arrays/Map)
+- [Multidimensional Arrays](JS/Arrays/Multidimensional%20Arrays)
+- [Spread Operator](JS/Arrays/Spread%20Operator)
+
+
+### [Objects](JS/Objects)
+Coming Soon
+
+### [Advanced](JS/Advanced)
+Coming Soon
