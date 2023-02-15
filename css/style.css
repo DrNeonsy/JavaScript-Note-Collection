@@ -27,18 +27,27 @@ body div.nav {
   top: 18px;
   font-size: 1.8rem;
 }
-body div.nav h1 {
+body div.nav h1,
+body div.nav h2 {
   text-align: center;
+}
+body div.nav #home {
+  margin-top: 1.2rem;
 }
 body div.nav .links {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
   align-items: center;
   align-content: center;
   justify-content: center;
   grid-gap: 1rem 0;
   font-size: 1.2rem;
   text-align: center;
+}
+body div.nav #index {
+  grid-template-columns: repeat(5, 1fr);
+}
+body div.nav #Fundamentals {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 a,
