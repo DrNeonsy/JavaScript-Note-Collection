@@ -37,31 +37,17 @@
 
 ## Section Overview
 
-1. [Variables](JS/Variables)
-2. [Arithmetics](JS/Arithmetics)
-3. [User Input](JS/User%20Input)
-4. [Type Conversion](JS/Type%20Conversion)
-5. [Const](JS/Const)
-6. [Math](JS/Math)
-7. [String](JS/String)
-8. [If Statement](JS/If%20Statement)
-9. [Checked Properties](JS/Checked%20Property)
-10. [Switch](JS/Switch)
-11. [Logical Operator](JS/Logical%20Operator)
-12. [While Loop](JS/While%20Loop)
-13. [Do While Loop](JS/Do%20While%20Loop)
-14. [For Loop](JS/For%20Loop)
-15. [Break And Continue](JS/Break%20And%20Continue)
-16. [Functions](JS/Functions)
-17. [Ternary Operator](JS/Ternary%20Operator)
-18. [Template Literals / String Interpolation](JS/Template%20Literals)
-19. [Arrays](JS/Arrays)
-20. [Arrays And Loops](JS/Arrays%20And%20Loops)
-21. [Multidimensional Arrays](JS/Multidimensional%20Arrays)
-22. [Array Functions](JS/Array%20Functions)
-23. [Callbacks](JS/Callbacks)
-24. [Spread Operator](JS/Spread%20Operator)
-25. [Rest Parameters](JS/Rest%20Parameters)
-26. [Function Expressions](JS/Function%20Expressions)
-27. [Map](JS/Map)
-28. More Is Coming
+### Fundamentals
+
+
+### Functions
+
+
+### Arrays
+
+
+### Objects
+Coming Soon
+
+### Advanced
+Coming Soon

@@ -25,7 +25,7 @@ body {
 body div.nav {
   position: absolute;
   top: 18px;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
 }
 body div.nav h1 {
   text-align: center;
@@ -37,6 +37,7 @@ body div.nav .links {
   align-content: center;
   justify-content: center;
   grid-gap: 1rem 0;
+  font-size: 1.2rem;
   text-align: center;
 }
 
