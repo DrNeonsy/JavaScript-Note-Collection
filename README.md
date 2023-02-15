@@ -41,7 +41,6 @@
 - [Arithmetics](JS/Fundamentals/Arithmetics)
 - [Break And Continue](JS/Fundamentals/Break%20And%20Continue)
 - [Checked Property](JS/Fundamentals/Checked%20Property)
-- [Const](JS/Fundamentals/Const)
 - [Do While Loop](JS/Fundamentals/Do%20While%20Loop)
 - [For Loop](JS/Fundamentals/For%20Loop)
 - [If Statement](JS/Fundamentals/If%20Statement)

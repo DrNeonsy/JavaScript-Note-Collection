@@ -59,6 +59,12 @@ body {
         #Fundamentals {
             grid-template-columns: repeat(4, 1fr);
         }
+        #Functions {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        #Arrays {
+            grid-template-columns: repeat(3, 1fr);
+        }
 
         font-size: 1.8rem;
     }

@@ -38,3 +38,21 @@ teaPerson // Check Ternary Operator Section For The Explanation
           "And You Like Tea, Which Is Great")
     : (document.getElementById("p3").innerText =
           "And You Don't Like Tea, HOW DARE YOU");
+
+// --------------------------------------------------------------------------
+
+/*
+    Const Is A Variable Where The Content Cannot Be Changed
+    It Adds A Bit Of Security (More Or Less) And Can Be Useful
+*/
+
+// The Naming Convention For Constant Variables Is UPPERCASE
+
+const PI = 3.14159;
+let radius;
+let circumference;
+
+radius = Number(window.prompt("Enter A Radius Of A Circle"));
+circumference = 2 * PI * radius;
+
+console.log("The Circumference Is: " + circumference);
