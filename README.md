@@ -8,7 +8,7 @@
 
 ## Important
 
-### This Is Currently W.I.P And I'm Working Directly With The Main Branch So Be Sure To Update
+### This Is A W.I.P And I'm Working Directly With The Main Branch So Be Sure To Update
 
 ### To Get The Most Out Of This You Need To Read The JavaScript File Within A Section
 
