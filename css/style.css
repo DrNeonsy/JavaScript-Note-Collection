@@ -55,6 +55,9 @@ body div.nav #Functions {
 body div.nav #Arrays {
   grid-template-columns: repeat(3, 1fr);
 }
+body div.nav #Objects {
+  grid-template-columns: repeat(2, 1fr);
+}
 
 a,
 a:active,

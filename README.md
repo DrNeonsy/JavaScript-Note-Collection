@@ -70,7 +70,8 @@
 
 
 ### [Objects](JS/Objects)
-Coming Soon
+- [Object Basics](JS/Objects/Object%20Basics)
+- [Objects VS Arrays](JS/Objects/Objects%20VS%20Arrays)
 
 ### [Advanced](JS/Advanced)
 Coming Soon
