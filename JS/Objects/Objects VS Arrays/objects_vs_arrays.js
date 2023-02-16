@@ -1,6 +1,6 @@
 /*
     As You May Know From The Array Basics, Arrays Are "typeOf()" Object. Now We Are Looking At Objects So...
-    What's The Difference? I'm Gonna Cover That First.
+    What's The Difference?
 
     //--------------------------------------------------------------------------------------------------------
     Basic Explanation:
