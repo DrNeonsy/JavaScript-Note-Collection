@@ -4,7 +4,7 @@
     Now Depending On Your Knowledge You Might Be Aware That Objects Are Similar However
     Their Keys Are Restricted To (Numbers, Strings And Characters)
 
-    A Map Can Store Any Datatype As A Key E.G. Arrays Or Objects
+    A Map Can Store Any Datatype As A Key E.G. Even Arrays, Objects And More
 */
 
 // This Is How We Can Create A Map Object. There Is Also A Way Where We Can Directly Input Values.

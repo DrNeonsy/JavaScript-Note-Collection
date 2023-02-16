@@ -65,6 +65,9 @@ body {
         #Arrays {
             grid-template-columns: repeat(3, 1fr);
         }
+        #Objects {
+            grid-template-columns: repeat(2, 1fr);
+        }
 
         font-size: 1.8rem;
     }

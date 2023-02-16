@@ -45,3 +45,6 @@ console.log("Current Array Length", length);
 // Get Index Of Value In Array
 let indexOf = typesOfTea.indexOf("Earl Grey"); // Returns -1 If It Does Not Exist
 console.log("Index Of Earl Grey", indexOf);
+
+// To find out if a value exists in an array you can use the includes method
+let includes = typesOfTea.includes("Earl Grey"); // Returns True Or False, so in this case it's true

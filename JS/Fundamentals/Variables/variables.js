@@ -9,7 +9,7 @@
 
 // 1. Declare A Variable With => (var, let, const);
 
-// Var Will Be Discussed With Functions
+// If You Want To Learn About Var, Head To The Function Basics
 
 // 2. Assign A Value
 
