@@ -73,6 +73,7 @@
 - [Object Basics](JS/Objects/Object%20Basics)
 - [Objects VS Arrays](JS/Objects/Objects%20VS%20Arrays)
 - [Variable Reference](JS/Objects/Variable%20Reference)
+- [Classes](JS/Objects/Classes)
 
 ### [Advanced](JS/Advanced)
 Coming Soon
