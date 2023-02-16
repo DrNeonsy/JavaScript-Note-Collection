@@ -34,6 +34,10 @@ body div.nav h2 {
 body div.nav #home {
   margin-top: 1.2rem;
 }
+body div.nav #main {
+  text-align: center;
+  margin-top: 1.2rem;
+}
 body div.nav .links {
   display: grid;
   align-items: center;
@@ -56,7 +60,7 @@ body div.nav #Arrays {
   grid-template-columns: repeat(3, 1fr);
 }
 body div.nav #Objects {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 a,

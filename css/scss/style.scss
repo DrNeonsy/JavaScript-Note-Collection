@@ -40,6 +40,10 @@ body {
         #home {
             margin-top: 1.2rem;
         }
+        #main{
+            text-align: center;
+            margin-top: 1.2rem;
+        }
 
         .links {
             display: grid;
@@ -66,7 +70,7 @@ body {
             grid-template-columns: repeat(3, 1fr);
         }
         #Objects {
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(3, 1fr);
         }
 
         font-size: 1.8rem;
