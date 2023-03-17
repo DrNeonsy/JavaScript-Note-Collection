@@ -78,6 +78,7 @@
 -   [Object Basics](JS/Objects/Object%20Basics)
 -   [Object Destructuring](JS/Objects/Object%20Destructuring)
 -   [Objects VS Arrays](JS/Objects/Objects%20VS%20Arrays)
+-   [Static](JS/Objects/Static)
 -   [Variable Reference](JS/Objects/Variable%20Reference)
 
 ### [Advanced](JS/Advanced)
