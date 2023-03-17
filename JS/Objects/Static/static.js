@@ -1,4 +1,5 @@
-/*  The Static Keyword Makes An Attribute Or Method Available To The Entire Class
+/*
+    The Static Keyword Makes An Attribute Or Method Available To The Entire Class
     So In Contrast: The Attribute Or Method Does Not Belong To An Object
     
     This Can Be Useful For "Utility Methods" Or "Shared Information"

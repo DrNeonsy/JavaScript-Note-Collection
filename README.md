@@ -75,6 +75,7 @@
 
 -   [Classes](JS/Objects/Classes)
 -   [Constructor](JS/Objects/Constructor)
+-   [Inheritance](JS/Objects/Inheritance)
 -   [Object Basics](JS/Objects/Object%20Basics)
 -   [Object Destructuring](JS/Objects/Object%20Destructuring)
 -   [Objects VS Arrays](JS/Objects/Objects%20VS%20Arrays)
