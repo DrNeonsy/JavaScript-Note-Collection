@@ -75,6 +75,7 @@
 
 -   [Classes](JS/Objects/Classes)
 -   [Constructor](JS/Objects/Constructor)
+-   [Getters And Setters](JS/Objects/Getters%20And%20Setters)
 -   [Inheritance](JS/Objects/Inheritance)
 -   [Object Basics](JS/Objects/Object%20Basics)
 -   [Object Destructuring](JS/Objects/Object%20Destructuring)
