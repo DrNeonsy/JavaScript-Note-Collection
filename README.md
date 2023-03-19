@@ -2,19 +2,11 @@
 
 ### This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of JavaScript
 
-![HTML](https://img.shields.io/badge/-HTML-fc6203)
-![CSS](https://img.shields.io/badge/-CSS-03dbfc)
-![JS](https://img.shields.io/badge/-JavaScript-fcdb03)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 
-## Important
-
-### This Is A W.I.P And I'm Working Directly With The Main Branch So Be Sure To Update
-
-### To Get The Most Out Of This You Need To Read The JavaScript File Within A Section
-
-### The Order Of The Sections Is Subject To Change
-
-## How To Use
+## How To Use | [Live Preview](https://drneonsy.github.io/JavaScript-Note-Collection)
 
 ### Step One
 
@@ -27,12 +19,6 @@
 ### Step Three
 
 ![Open Index HTML](https://user-images.githubusercontent.com/118444485/219054069-2c5164ec-41b8-49fb-a27f-051a6dc83288.png)
-
-## Notes
-
--   I'm Using Visual Studio Code (Because This Is The Way)
--   For Styling I'm Going With SCSS
--   The Main Page Provides Navigation Between All HTML Files
 
 ## Section Overview
 
@@ -77,6 +63,7 @@
 -   [Constructor](JS/Objects/Constructor)
 -   [Getters And Setters](JS/Objects/Getters%20And%20Setters)
 -   [Inheritance](JS/Objects/Inheritance)
+-   [Object AS Argument](JS/Objects/Object%20AS%20Argument)
 -   [Object Basics](JS/Objects/Object%20Basics)
 -   [Object Destructuring](JS/Objects/Object%20Destructuring)
 -   [Objects VS Arrays](JS/Objects/Objects%20VS%20Arrays)

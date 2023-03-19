@@ -1,10 +1,10 @@
 /*
 
-    Getters: Are Used To Bind An Attribute To A Function / Method
+    Getters / Setters: Are Used To Bind An Attribute To A Function / Method
 
     Important: Naming Convention For Attributes That Are "Protected" Via
     Getters / Setters
-    Being With An Underscore
+    Begin With An Underscore
 
     Getters Are Used To Get / Retrieve Attributes
     Setters Are Used To Set / Modify Attributes
