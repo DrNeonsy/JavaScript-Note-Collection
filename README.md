@@ -6,6 +6,11 @@
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 
+## I'm Using PostCSS To Compile My CSS
+```
+npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simple-vars postcss-scss --save-dev
+```
+
 ## How To Use | [Live Preview](https://drneonsy.github.io/JavaScript-Note-Collection)
 
 ### Step One

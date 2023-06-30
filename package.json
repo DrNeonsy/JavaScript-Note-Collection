@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0",
+    "postcss-nested": "^6.0.1",
+    "postcss-scss": "^4.0.6",
+    "postcss-simple-vars": "^7.0.1"
+  },
+  "scripts": {
+    "css": "postcss css/post.css -o css/style.css"
+  }
+}
