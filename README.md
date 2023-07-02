@@ -80,3 +80,5 @@ npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simp
 ### [Advanced](JS/Advanced/)
 
 -   [Error Handling](JS/Advanced/Error%20Handling/)
+-   [Interval](JS/Advanced/Interval/)
+-   [Timeout](JS/Advanced/Timeout/)
