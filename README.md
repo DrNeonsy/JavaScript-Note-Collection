@@ -32,6 +32,7 @@ npm run install
 
 ### [Advanced](JS/Advanced/)
 
+-   [Async](JS/Advanced/Async/)
 -   [Console Time](JS/Advanced/Console%20Time/)
 -   [Date](JS/Advanced/Date/)
 -   [Error Handling](JS/Advanced/Error%20Handling/)
