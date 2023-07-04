@@ -8,7 +8,7 @@
 
 ## I'm Using PostCSS To Compile My CSS
 
-`To Install Run Via My Install Script`
+`To Install The Dependencies, Run My Install Script`
 
 ```
 npm run install
@@ -36,6 +36,7 @@ npm run install
 -   [Date](JS/Advanced/Date/)
 -   [Error Handling](JS/Advanced/Error%20Handling/)
 -   [Interval](JS/Advanced/Interval/)
+-   [Promises](JS/Advanced/Promises/)
 -   [Timeout](JS/Advanced/Timeout/)
 
 ### [Arrays](JS/Arrays/)
