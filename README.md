@@ -8,16 +8,10 @@
 
 ## I'm Using PostCSS To Compile My CSS
 
-`To Install Run`
+`To Install Run Via My Install Script`
 
 ```
 npm run install
-```
-
-`Full Install Script`
-
-```
-npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simple-vars postcss-scss --save-dev
 ```
 
 ## How To Use | [Live Preview](https://drneonsy.github.io/JavaScript-Note-Collection)
@@ -38,6 +32,7 @@ npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simp
 
 ### [Advanced](JS/Advanced/)
 
+-   [Console Time](JS/Advanced/Console%20Time/)
 -   [Date](JS/Advanced/Date/)
 -   [Error Handling](JS/Advanced/Error%20Handling/)
 -   [Interval](JS/Advanced/Interval/)
