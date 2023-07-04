@@ -8,6 +8,14 @@
 
 ## I'm Using PostCSS To Compile My CSS
 
+`To Install Run`
+
+```
+npm run install
+```
+
+`Full Install Script`
+
 ```
 npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simple-vars postcss-scss --save-dev
 ```
@@ -28,6 +36,29 @@ npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simp
 
 ## Section Overview
 
+### [Advanced](JS/Advanced/)
+
+-   [Date](JS/Advanced/Date/)
+-   [Error Handling](JS/Advanced/Error%20Handling/)
+-   [Interval](JS/Advanced/Interval/)
+-   [Timeout](JS/Advanced/Timeout/)
+
+### [Arrays](JS/Arrays/)
+
+-   [Array Basics](JS/Arrays/Array%20Basics/)
+-   [Array Functions](JS/Arrays/Array%20Functions/)
+-   [Arrays And Loops](JS/Arrays/Arrays%20And%20Loops/)
+-   [Map](JS/Arrays/Map/)
+-   [Multidimensional Arrays](JS/Arrays/Multidimensional%20Arrays/)
+-   [Spread Operator](JS/Arrays/Spread%20Operator/)
+
+### [Functions](JS/Functions/)
+
+-   [Callbacks](JS/Functions/Callbacks/)
+-   [Function Basics](JS/Functions/Function%20Basics/)
+-   [Function Expressions](JS/Functions/Function%20Expressions/)
+-   [Rest Parameters](JS/Functions/Rest%20Parameters/)
+
 ### [Fundamentals](JS/Fundamentals/)
 
 -   [Arithmetics](JS/Fundamentals/Arithmetics/)
@@ -47,22 +78,6 @@ npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simp
 -   [Variables](JS/Fundamentals/Variables/)
 -   [While Loop](JS/Fundamentals/While%20Loop/)
 
-### [Functions](JS/Functions/)
-
--   [Callbacks](JS/Functions/Callbacks/)
--   [Function Basics](JS/Functions/Function%20Basics/)
--   [Function Expressions](JS/Functions/Function%20Expressions/)
--   [Rest Parameters](JS/Functions/Rest%20Parameters/)
-
-### [Arrays](JS/Arrays/)
-
--   [Array Basics](JS/Arrays/Array%20Basics/)
--   [Array Functions](JS/Arrays/Array%20Functions/)
--   [Arrays And Loops](JS/Arrays/Arrays%20And%20Loops/)
--   [Map](JS/Arrays/Map/)
--   [Multidimensional Arrays](JS/Arrays/Multidimensional%20Arrays/)
--   [Spread Operator](JS/Arrays/Spread%20Operator/)
-
 ### [Objects](JS/Objects/)
 
 -   [Classes](JS/Objects/Classes/)
@@ -76,9 +91,3 @@ npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simp
 -   [Static](JS/Objects/Static/)
 -   [Super](JS/Objects/Super/)
 -   [Variable Reference](JS/Objects/Variable%20Reference/)
-
-### [Advanced](JS/Advanced/)
-
--   [Error Handling](JS/Advanced/Error%20Handling/)
--   [Interval](JS/Advanced/Interval/)
--   [Timeout](JS/Advanced/Timeout/)
