@@ -51,6 +51,9 @@ npm run install
 -   [Multidimensional Arrays](JS/Arrays/Multidimensional%20Arrays/)
 -   [Spread Operator](JS/Arrays/Spread%20Operator/)
 
+### [DOM](JS/DOM/)
+-   [Overview](JS/DOM/Overview/)
+
 ### [Functions](JS/Functions/)
 
 -   [Callbacks](JS/Functions/Callbacks/)
