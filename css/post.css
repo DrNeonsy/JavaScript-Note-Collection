@@ -39,6 +39,15 @@ body {
 
         #home {
             margin-top: 1.2rem;
+            color: $color;
+
+            &::before {
+                content: "> ";
+            }
+
+            &::after {
+                content: " <";
+            }
         }
         #main {
             text-align: center;
@@ -115,7 +124,7 @@ button {
     }
 }
 
-/// Classes
+// Classes
 
 .flex-dir-center {
     display: flex;
@@ -129,7 +138,7 @@ button {
     height: 100%;
 }
 
-//- User Input
+// User Input
 
 .input-area {
     * {

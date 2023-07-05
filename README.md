@@ -38,6 +38,7 @@ npm run install
 -   [Date](JS/Advanced/Date/)
 -   [Error Handling](JS/Advanced/Error%20Handling/)
 -   [Interval](JS/Advanced/Interval/)
+-   [Modules](JS/Advanced/Modules/)
 -   [Promises](JS/Advanced/Promises/)
 -   [Timeout](JS/Advanced/Timeout/)
 
