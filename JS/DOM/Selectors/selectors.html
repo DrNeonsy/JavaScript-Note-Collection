@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" href="/resources/fav.png" type="image/x-icon">
+    <script src="/resources/head.js"></script>
+</head>
+
+<body id="selectors">
+    <div class="nav">
+        <a href="../nav.html">Back To Navigation</a>
+    </div>
+
+    <h1>Check Web Console For Output / JS File For Context</h1>
+
+    <div class="tools">
+        <h2 id="customID" class="change">Change ME</h2>
+
+        <div class="radios">
+            <label for="black">Black</label>
+            <input type="radio" name="teas" id="black" value="black">
+            <label for="peppermint">Peppermint</label>
+            <input type="radio" name="teas" id="peppermint" value="peppermint">
+            <label for="lemon">Lemon</label>
+            <input type="radio" name="teas" id="lemon" value="lemon">
+            <label for="fennel">Fennel</label>
+            <input type="radio" name="teas" id="fennel" value="fennel">
+            <label for="camomile">Camomile</label>
+            <input type="radio" name="teas" id="camomile" value="camomile">
+        </div>
+    </div>
+
+    <div class="tools">
+        <p>Effects are temporary</p>
+        <div class="buttons">
+            <button class="button" onclick="idExample()">ID</button>
+            <button class="button" onclick="querySelectorExample()">Query</button>
+            <button class="button" onclick="classExample()">Class</button>
+        </div>
+    </div>
+
+    <script src="./selectors.js"></script>
+</body>
+
+</html>

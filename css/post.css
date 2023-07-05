@@ -148,3 +148,41 @@ button {
         margin-bottom: 9px;
     }
 }
+
+// Custom Pages
+
+body#selectors {
+    h1 {
+        margin-block-start: 3rem;
+    }
+
+    .tools {
+        width: 75%;
+        height: 400px;
+        text-align: center;
+
+        p {
+            text-align: center;
+            margin-block-end: 3rem;
+        }
+
+        .radios {
+            display: flex;
+            justify-content: space-around;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .buttons {
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+
+            .button {
+                width: 150px;
+                height: 75px;
+                border-radius: 18px;
+            }
+        }
+    }
+}

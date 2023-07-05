@@ -53,6 +53,7 @@ npm run install
 
 ### [DOM](JS/DOM/)
 -   [Overview](JS/DOM/Overview/)
+-   [Selectors](JS/DOM/Selectors/)
 
 ### [Functions](JS/Functions/)
 
