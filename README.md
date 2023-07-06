@@ -52,6 +52,7 @@ npm run install
 -   [Spread Operator](JS/Arrays/Spread%20Operator/)
 
 ### [DOM](JS/DOM/)
+-   [Element Manipulation](JS/DOM/Element%20Manipulation/)
 -   [Overview](JS/DOM/Overview/)
 -   [Selectors](JS/DOM/Selectors/)
 
