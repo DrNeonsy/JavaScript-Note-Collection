@@ -1,18 +1,10 @@
 # JavaScript Note Collection
 
-### This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of JavaScript
-
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 
-## I'm Using PostCSS To Compile My CSS
-
-`To Install The Dependencies, Run My Install Script`
-
-```
-npm run install
-```
+This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of JavaScript
 
 ## How To Use | [Live Preview](https://drneonsy.github.io/JavaScript-Note-Collection)
 
@@ -53,6 +45,7 @@ npm run install
 
 ### [DOM](JS/DOM/)
 -   [Element Manipulation](JS/DOM/Element%20Manipulation/)
+-   [Events](JS/DOM/Events/)
 -   [Overview](JS/DOM/Overview/)
 -   [Selectors](JS/DOM/Selectors/)
 -   [Styles](JS/DOM/Styles/)

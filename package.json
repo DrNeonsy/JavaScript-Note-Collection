@@ -10,6 +10,6 @@
   },
   "scripts": {
     "install": "npm install postcss postcss-cli autoprefixer cssnano postcss-nested postcss-simple-vars postcss-scss --save-dev",
-    "css": "postcss css/post.css -o css/style.css"
+    "css": "postcss css/post.css -o css/style.css -w"
   }
 }
