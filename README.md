@@ -55,6 +55,7 @@ npm run install
 -   [Element Manipulation](JS/DOM/Element%20Manipulation/)
 -   [Overview](JS/DOM/Overview/)
 -   [Selectors](JS/DOM/Selectors/)
+-   [Styles](JS/DOM/Styles/)
 
 ### [Functions](JS/Functions/)
 

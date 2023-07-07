@@ -186,3 +186,11 @@ body#selectors {
         }
     }
 }
+
+.customClass {
+    font-size: 3rem;
+    color: salmon;
+    border: solid whitesmoke 3px;
+    padding: 1em;
+    border-radius: 18px;
+}
